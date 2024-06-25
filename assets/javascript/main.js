@@ -56,7 +56,7 @@ $(".page-button").slick({
   dots: false,
   autoplay: false,
   slidesToShow: 6,
-  slidesToScroll: 1,
+  slidesToScroll: 4,
   responsive: [
     {
       breakpoint: 900,
